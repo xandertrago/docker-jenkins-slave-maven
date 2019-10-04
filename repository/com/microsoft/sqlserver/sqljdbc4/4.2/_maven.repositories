@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Oct 03 12:56:52 CEST 2019
+sqljdbc4-4.2.jar>=
+sqljdbc4-4.2.pom>=
